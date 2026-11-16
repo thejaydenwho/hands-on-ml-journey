@@ -1,0 +1,16 @@
+# Virtual Environment (Crucial - thousands of files!)
+.venv/
+
+# Datasets from Hands-On ML
+datasets/
+
+# Jupyter Notebook caches
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code workspace settings (Optional)
+.vscode/
